@@ -17,8 +17,6 @@ Some things I've built:
 - [**AirflowSpark**](https://github.com/ayoremi8/AirflowSpark): a modern data lake built with Minio, Spark, and Airflow, running on Docker
 - [**agentic-prod**](https://github.com/ayoremi8/agentic-prod): production-grade agent orchestration system
 - [**VoiceStudio**](https://github.com/ayoremi8/VoiceStudio): fully local voice studio in Python for voice cloning, dubbing, dictation, and transcription
-- [**ResumeSkills**](https://github.com/ayoremi8/ResumeSkills): AI agent skills for resume optimization, job applications, and interview prep
-- [**notchprompt**](https://github.com/ayoremi8/notchprompt): distraction-free teleprompter hidden in the MacBook notch, built in Swift
 
 ## Find me elsewhere
 
