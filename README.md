@@ -16,7 +16,7 @@ Some things I've built:
 
 - [**AirflowSpark**](https://github.com/ayoremi8/AirflowSpark): a modern data lake built with Minio, Spark, and Airflow, running on Docker
 - [**agentic-prod**](https://github.com/ayoremi8/agentic-prod): production-grade agent orchestration system
-- [**VoiceStudio**](https://github.com/ayoremi8/VoiceStudio): fully local voice studio in Python for voice cloning, dubbing, dictation, and transcription
+- [**Scripture Memory Trainer**](https://scripture-memory-trainer.vercel.app) ([code](https://github.com/ayoremi8/scripture-memory)): spaced-repetition Scripture trainer in English, Mandarin, Arabic, and Hindi, built for the Frontier Commons Innovation Fellowship
 
 ## Find me elsewhere
 
