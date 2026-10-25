@@ -1,6 +1,6 @@
 # Hi, I'm Ayo 👋
 
-**Forward Deployed Engineer** building GenAI and LLM systems that hold up in production, not just in a demo.
+**Full Stack Engineer** building GenAI and LLM systems that hold up in production, not just in a demo.
 
 ## About me
 
