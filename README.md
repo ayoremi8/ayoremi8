@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Forward Deployed Engineer, Python and GCP
-- ✨ Backend, full-stack, and MLOps/DevOps background
+- ✨ Backend, full-stack, data engineering, and MLOps/DevOps background
 - ✨ Building evaluation harnesses that test AI agent behavior before it ships
 - ✨ Published, peer-reviewed researcher: transformer-based LLMs, diffusion models, and generative AI for cybersecurity
 - ✨ Formally studied software engineering: MSc (Middlesex University London) and MBA (UNC Kenan-Flagler)
