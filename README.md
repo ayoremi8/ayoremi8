@@ -16,7 +16,7 @@ Some things I've built:
 
 - [**AirflowSpark**](https://github.com/ayoremi8/AirflowSpark): a modern data lake built with Minio, Spark, and Airflow, running on Docker
 - [**agentic-prod**](https://github.com/ayoremi8/agentic-prod): production-grade agent orchestration system
-- [**ClearWord**](https://clearword.app): Bible study app for reading and understanding Scripture, with a Bible reader, flashcards, and quizzes, built in React Native and Supabase
+- [**ClearWord**](https://clearword.app) ([App Store](https://apps.apple.com/us/app/clearword-app/id6756037370)): Bible study app for reading and understanding Scripture, with a Bible reader, flashcards, and quizzes, built in React Native and Supabase
 - [**Scripture Memory Trainer**](https://scripture-memory-trainer.vercel.app) ([code](https://github.com/ayoremi8/scripture-memory)): spaced-repetition Scripture trainer in English, Mandarin, Arabic, and Hindi, built for the Frontier Commons Innovation Fellowship
 
 ## Research
